@@ -12,7 +12,7 @@ Pre requisites:
 
 Open ganache and select quick start ethereum.
 
-Open your browser and configure metamask. Create a wallet and store your```Secret Recovery Phrase``` in a safe place.
+Open your browser and configure metamask wallet. Create a wallet and store your```Secret Recovery Phrase``` in a safe place.
 
 #### Connecting metamask and ganache
 1. In metamask, go to settings > networks > add network. You can also get to this by clicking the metamask extension pinned on your browser > clicking the profile picture > settings > networks > add network
